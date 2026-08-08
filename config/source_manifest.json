@@ -1,0 +1,14 @@
+{
+  "berkeleytime_backup": {
+    "retrieved_date": "2026-08-08",
+    "url": "https://backups.berkeleytime.com/public/daily/prod_public_backup-20260808.gz",
+    "relative_path": "data/raw/berkeleytime/prod_public_backup-20260808.gz",
+    "sha256": "e469fbb29df450bca0d71cb2b391c5c9e682eb7a9cff5331baf7ea1745656cd2"
+  },
+  "cee_faculty_roster": {
+    "retrieved_date": "2026-08-08",
+    "url": "https://ce.berkeley.edu/people/faculty",
+    "relative_path": "data/raw/cee/faculty-20260808.html"
+  }
+}
+

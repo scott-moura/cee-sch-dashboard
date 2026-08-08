@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+
+# Source archives and generated analytical artifacts are reproducible but large.
+data/raw/berkeleytime/*.gz
+data/interim/
+data/processed/
+data/audit/
+
