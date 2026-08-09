@@ -1,0 +1,20 @@
+{
+  "version": "1.2-audit",
+  "new_terms": [
+    "Fall 2023",
+    "Spring 2024"
+  ],
+  "deployment_ready": true,
+  "new_term_activities": 200,
+  "new_term_attributed_sch": 10590.0,
+  "review_counts": {
+    "instructor_credit_rows": 0,
+    "instructor_credit_activities": 0,
+    "activity_grouping_rows": 0,
+    "unit_conflict_rows": 0,
+    "data_quality_rows": 0,
+    "faculty_affiliation_rows": 65,
+    "faculty_affiliation_pending_rows": 0
+  },
+  "gate_reason": ""
+}

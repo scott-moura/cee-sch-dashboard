@@ -1,0 +1,4 @@
+academic_year,total_attributed_sch,regular_attributed_sch,non_regular_attributed_sch,regular_sch_share,non_regular_sch_share,all_faculty_annual_fte,regular_annual_fte,sch_per_fte_all,sch_per_fte_regular_denominator,excluded_variable_unit_activities,excluded_course_policy_activities,excluded_civeng_190_policy_activities,excluded_98_198_policy_activities
+2023-24,10590.0,8291.5,2298.5,0.7829556185080264,0.21704438149197355,69.0,44.0,153.47826086956522,240.6818181818182,110,31,4,27
+2024-25,11431.0,7413.5,4017.5,0.6485434345201645,0.35145656547983556,69.5,44.0,164.4748201438849,259.79545454545456,69,26,4,22
+2025-26,12193.0,10516.0,1677.0,0.8624620683999016,0.13753793160009842,67.0,44.0,181.98507462686567,277.1136363636364,63,29,4,25

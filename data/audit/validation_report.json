@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "error_count": 0,
+  "errors": [],
+  "checks": {
+    "no_summer_terms": true,
+    "catalog_numbers_at_most_199": true,
+    "teaching_credit_conservation": true,
+    "variable_unit_sch_zero": true,
+    "course_policy_sch_zero": true,
+    "fixed_unit_overrides_have_units": true,
+    "secondary_section_sch_zero": true,
+    "faculty_department_aggregation": true,
+    "regular_non_regular_shares": true,
+    "faculty_classifications_approved": true,
+    "manual_edge_cases_approved": true,
+    "v1_2_manual_audits_complete": true
+  },
+  "faculty_audit_approved": true,
+  "manual_validation_approved": true,
+  "calculation_passed": true,
+  "deployment_ready": true,
+  "deployment_gate_reason": ""
+}

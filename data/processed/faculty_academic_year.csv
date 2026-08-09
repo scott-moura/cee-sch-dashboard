@@ -1,0 +1,229 @@
+academic_year,faculty_id,faculty,title,faculty_category,annual_fte,attributed_sch,attributed_course_enrollments,qualifying_primary_courses
+2023-24,CEE-001,Norman Abrahamson,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-001,Norman Abrahamson,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-001,Norman Abrahamson,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-002,Lisa Alvarez-Cohen,Vice Provost for Academic Planning | Fred and Claire Sauer Professor of Environmental Engineering,REGULAR,1.0,0,0,0
+2024-25,CEE-002,Lisa Alvarez-Cohen,Vice Provost for Academic Planning | Fred and Claire Sauer Professor of Environmental Engineering,REGULAR,1.0,0,0,0
+2025-26,CEE-002,Lisa Alvarez-Cohen,Vice Provost for Academic Planning | Fred and Claire Sauer Professor of Environmental Engineering,REGULAR,1.0,0,0,0
+2023-24,CEE-003,Joshua Apte,Associate Professor,REGULAR,1.0,180.0,60.0,1
+2024-25,CEE-003,Joshua Apte,Associate Professor,REGULAR,1.0,231.0,77.0,1
+2025-26,CEE-003,Joshua Apte,Associate Professor,REGULAR,1.0,168.0,56.0,1
+2023-24,CEE-004,Francisco Armero,Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-004,Francisco Armero,Professor,REGULAR,1.0,69.0,23.0,1
+2025-26,CEE-004,Francisco Armero,Professor,REGULAR,1.0,426.0,142.0,2
+2023-24,CEE-005,Daniel Arnold,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-005,Daniel Arnold,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-005,Daniel Arnold,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-006,Adda Athanasopoulos-Zekkos,"Vice Chair for Diversity, Equity, Inclusion & Belonging | Associate Professor",REGULAR,1.0,222.0,74.0,1
+2024-25,CEE-006,Adda Athanasopoulos-Zekkos,"Vice Chair for Diversity, Equity, Inclusion & Belonging | Associate Professor",REGULAR,1.0,294.0,98.0,1
+2025-26,CEE-006,Adda Athanasopoulos-Zekkos,"Vice Chair for Diversity, Equity, Inclusion & Belonging | Associate Professor",REGULAR,1.0,0,0,0
+2023-24,CEE-007,Roger Bales,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-007,Roger Bales,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-007,Roger Bales,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-008,Alexandre M. Bayen,Liao-Cho Innovation Endowed Chair | Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-008,Alexandre M. Bayen,Liao-Cho Innovation Endowed Chair | Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-008,Alexandre M. Bayen,Liao-Cho Innovation Endowed Chair | Professor,REGULAR,1.0,0,0,0
+2023-24,CEE-009,Tracy Becker,Vice Chair for Research & Technical Support | Ed & Diane Wilson Presidential Chair in Structural Engineering | Associate Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-009,Tracy Becker,Vice Chair for Research & Technical Support | Ed & Diane Wilson Presidential Chair in Structural Engineering | Associate Professor,REGULAR,1.0,81.0,27.0,1
+2025-26,CEE-009,Tracy Becker,Vice Chair for Research & Technical Support | Ed & Diane Wilson Presidential Chair in Structural Engineering | Associate Professor,REGULAR,1.0,123.0,41.0,1
+2023-24,CEE-010,Jonathan D. Bray,Faculty Chair in Earthquake Engineering Excellence | Distinguished Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-010,Jonathan D. Bray,Faculty Chair in Earthquake Engineering Excellence | Distinguished Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-010,Jonathan D. Bray,Faculty Chair in Earthquake Engineering Excellence | Distinguished Professor,REGULAR,1.0,291.0,97.0,1
+2023-24,CEE-011,Maya Carrasquillo,Assistant Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-011,Maya Carrasquillo,Assistant Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-011,Maya Carrasquillo,Assistant Professor,REGULAR,1.0,0,0,0
+2023-24,CEE-012,Michael Cassidy,Chancellor's Professor | Robert Horonjeff Professor,REGULAR,1.0,84.0,28.0,1
+2024-25,CEE-012,Michael Cassidy,Chancellor's Professor | Robert Horonjeff Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-012,Michael Cassidy,Chancellor's Professor | Robert Horonjeff Professor,REGULAR,1.0,0,0,0
+2023-24,CEE-013,Luis Ceferino,Assistant Professor,REGULAR,1.0,228.0,76.0,1
+2024-25,CEE-013,Luis Ceferino,Assistant Professor,REGULAR,1.0,300.0,100.0,1
+2025-26,CEE-013,Luis Ceferino,Assistant Professor,REGULAR,1.0,270.0,90.0,1
+2023-24,CEE-014,Fotini Katopodes Chow,Fred & Claire Sauer Chancellor's Chair in Environmental Engineering | Professor,REGULAR,1.0,84.0,28.0,1
+2024-25,CEE-014,Fotini Katopodes Chow,Fred & Claire Sauer Chancellor's Chair in Environmental Engineering | Professor,REGULAR,1.0,78.0,26.0,1
+2025-26,CEE-014,Fotini Katopodes Chow,Fred & Claire Sauer Chancellor's Chair in Environmental Engineering | Professor,REGULAR,1.0,57.0,19.0,1
+2023-24,CEE-015,Paolo D'Odorico,Thomas J. Graff Professor of Natural Resources,REGULAR,1.0,182.0,29.0,2
+2024-25,CEE-015,Paolo D'Odorico,Thomas J. Graff Professor of Natural Resources,REGULAR,1.0,275.0,90.0,2
+2025-26,CEE-015,Paolo D'Odorico,Thomas J. Graff Professor of Natural Resources,REGULAR,1.0,60.0,15.0,1
+2023-24,CEE-016,Carlos F. Daganzo,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-016,Carlos F. Daganzo,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-016,Carlos F. Daganzo,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-017,Matthew DeJong,Ray & Shirley Clough Presidential Chair in Structural Engineering | Professor,REGULAR,1.0,24.0,12.0,1
+2024-25,CEE-017,Matthew DeJong,Ray & Shirley Clough Presidential Chair in Structural Engineering | Professor,REGULAR,1.0,32.0,16.0,1
+2025-26,CEE-017,Matthew DeJong,Ray & Shirley Clough Presidential Chair in Structural Engineering | Professor,REGULAR,1.0,34.0,17.0,1
+2023-24,CEE-018,Maria Laura Delle Monache,Clare & Hsieh Wen Shen Distinguished Professor in Civil & Environmental Engineering | Assistant Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-018,Maria Laura Delle Monache,Clare & Hsieh Wen Shen Distinguished Professor in Civil & Environmental Engineering | Assistant Professor,REGULAR,1.0,87.0,29.0,1
+2025-26,CEE-018,Maria Laura Delle Monache,Clare & Hsieh Wen Shen Distinguished Professor in Civil & Environmental Engineering | Assistant Professor,REGULAR,1.0,129.0,43.0,1
+2023-24,CEE-019,Filip C. Filippou,Byron and Elvira Nishkian Chair in Structural Engineering | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-019,Filip C. Filippou,Byron and Elvira Nishkian Chair in Structural Engineering | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-019,Filip C. Filippou,Byron and Elvira Nishkian Chair in Structural Engineering | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-020,Ashok Gadgil,Andrew and Virginia Rudd Family Foundation Chair Professor of Safe Water and Sanitation | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-020,Ashok Gadgil,Andrew and Virginia Rudd Family Foundation Chair Professor of Safe Water and Sanitation | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-020,Ashok Gadgil,Andrew and Virginia Rudd Family Foundation Chair Professor of Safe Water and Sanitation | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-021,Cynthia Gerlein-Safdi,Assistant Professor,REGULAR,1.0,324.0,81.0,1
+2024-25,CEE-021,Cynthia Gerlein-Safdi,Assistant Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-021,Cynthia Gerlein-Safdi,Assistant Professor,REGULAR,1.0,396.0,99.0,1
+2023-24,CEE-022,Allen Goldstein,Professor,REGULAR,1.0,210.0,70.0,1
+2024-25,CEE-022,Allen Goldstein,Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-022,Allen Goldstein,Professor,REGULAR,1.0,231.0,77.0,2
+2023-24,CEE-023,Marta Gonzalez,Professor,REGULAR,1.0,84.0,42.0,1
+2024-25,CEE-023,Marta Gonzalez,Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-023,Marta Gonzalez,Professor,REGULAR,1.0,153.0,51.0,1
+2023-24,CEE-024,Sanjay Govindjee,"Horace, Dorothy, and Katherine Johnson Professor in Engineering",REGULAR,1.0,69.0,23.0,1
+2024-25,CEE-024,Sanjay Govindjee,"Horace, Dorothy, and Katherine Johnson Professor in Engineering",REGULAR,1.0,405.0,135.0,1
+2025-26,CEE-024,Sanjay Govindjee,"Horace, Dorothy, and Katherine Johnson Professor in Engineering",REGULAR,1.0,0,0,0
+2023-24,CEE-025,Mohamad Hallal,Assistant Teaching Professor | Civil and Environmental Engineering,REGULAR,1.0,1962.0,515.0,2
+2024-25,CEE-025,Mohamad Hallal,Assistant Teaching Professor | Civil and Environmental Engineering,REGULAR,1.0,2149.0,581.0,3
+2025-26,CEE-025,Mohamad Hallal,Assistant Teaching Professor | Civil and Environmental Engineering,REGULAR,1.0,2028.0,532.0,2
+2023-24,CEE-026,Mark Hansen,Professor,REGULAR,1.0,255.0,85.0,1
+2024-25,CEE-026,Mark Hansen,Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-026,Mark Hansen,Professor,REGULAR,1.0,336.0,112.0,2
+2023-24,CEE-027,Robert Harley,Carl W. Johnson Professor in Civil Engineering,REGULAR,1.0,0,0,0
+2024-25,CEE-027,Robert Harley,Carl W. Johnson Professor in Civil Engineering,REGULAR,1.0,0,0,0
+2025-26,CEE-027,Robert Harley,Carl W. Johnson Professor in Civil Engineering,REGULAR,1.0,669.0,223.0,2
+2023-24,CEE-028,Slav W. Hermanowicz,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-028,Slav W. Hermanowicz,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-028,Slav W. Hermanowicz,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-029,Arpad Horvath,Edward G. Cahill and John R. Cahill Professor of Civil Engineering,REGULAR,1.0,381.0,127.0,1
+2024-25,CEE-029,Arpad Horvath,Edward G. Cahill and John R. Cahill Professor of Civil Engineering,REGULAR,1.0,273.0,91.0,1
+2025-26,CEE-029,Arpad Horvath,Edward G. Cahill and John R. Cahill Professor of Civil Engineering,REGULAR,1.0,252.0,84.0,1
+2023-24,CEE-030,Cesunica Ivey,Vice Chair of Strategic Planning | Associate Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-030,Cesunica Ivey,Vice Chair of Strategic Planning | Associate Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-030,Cesunica Ivey,Vice Chair of Strategic Planning | Associate Professor,REGULAR,1.0,48.0,16.0,1
+2023-24,CEE-031,Khalid Kadir,Continuing Lecturer,NON_REGULAR,1.0,448.0,119.0,5
+2024-25,CEE-031,Khalid Kadir,Continuing Lecturer,NON_REGULAR,1.0,940.0,243.0,4
+2025-26,CEE-031,Khalid Kadir,Continuing Lecturer,NON_REGULAR,1.0,920.0,238.0,5
+2023-24,CEE-032,Adib Kanafani,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-032,Adib Kanafani,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-032,Adib Kanafani,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-033,Robert Kayen,"Adjunct Professor | Senior Scientist, U. S. Geological Survey (Retired)",NON_REGULAR,1.0,0,0,0
+2024-25,CEE-033,Robert Kayen,"Adjunct Professor | Senior Scientist, U. S. Geological Survey (Retired)",NON_REGULAR,1.0,0,0,0
+2025-26,CEE-033,Robert Kayen,"Adjunct Professor | Senior Scientist, U. S. Geological Survey (Retired)",NON_REGULAR,1.0,0,0,0
+2023-24,CEE-034,Thomas W. Kirchstetter,"Adjunct Professor | Scientific Division Director, Energy Analysis and Environmental Impacts Division, Lawrence Berkeley National Laboratory",NON_REGULAR,1.0,19.0,19.0,1
+2024-25,CEE-034,Thomas W. Kirchstetter,"Adjunct Professor | Scientific Division Director, Energy Analysis and Environmental Impacts Division, Lawrence Berkeley National Laboratory",NON_REGULAR,1.0,11.0,11.0,1
+2025-26,CEE-034,Thomas W. Kirchstetter,"Adjunct Professor | Scientific Division Director, Energy Analysis and Environmental Impacts Division, Lawrence Berkeley National Laboratory",NON_REGULAR,1.0,0,0,0
+2023-24,CEE-035,Dimitrios Konstantinidis,Vice Chair for Undergraduate Studies | Associate Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-035,Dimitrios Konstantinidis,Vice Chair for Undergraduate Studies | Associate Professor,REGULAR,1.0,72.0,24.0,1
+2025-26,CEE-035,Dimitrios Konstantinidis,Vice Chair for Undergraduate Studies | Associate Professor,REGULAR,1.0,72.0,24.0,1
+2023-24,CEE-036,Laurel Larsen,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-036,Laurel Larsen,Adjunct Professor,NON_REGULAR,1.0,471.0,134.0,2
+2025-26,CEE-036,Laurel Larsen,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-037,Shaofan Li,Professor,REGULAR,1.0,918.0,306.0,2
+2024-25,CEE-037,Shaofan Li,Professor,REGULAR,1.0,771.0,257.0,2
+2025-26,CEE-037,Shaofan Li,Professor,REGULAR,1.0,735.0,245.0,2
+2023-24,CEE-038,Baoxia Mi,Vice Chair for Graduate Studies | Wood-Calvert Chair in Engineering | Professor,REGULAR,1.0,405.0,135.0,1
+2024-25,CEE-038,Baoxia Mi,Vice Chair for Graduate Studies | Wood-Calvert Chair in Engineering | Professor,REGULAR,1.0,405.0,135.0,1
+2025-26,CEE-038,Baoxia Mi,Vice Chair for Graduate Studies | Wood-Calvert Chair in Engineering | Professor,REGULAR,1.0,460.0,160.0,2
+2023-24,CEE-039,Jack P. Moehle,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-039,Jack P. Moehle,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-039,Jack P. Moehle,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-040,Paulo J. M. Monteiro,Professor of the Graduate School,NON_REGULAR,1.0,132.0,44.0,1
+2024-25,CEE-040,Paulo J. M. Monteiro,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-040,Paulo J. M. Monteiro,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-041,Khalid M. Mosalam,Taisei Professor of Civil Engineering | Director Pacific Earthquake Engineering Research Center,REGULAR,1.0,0,0,0
+2024-25,CEE-041,Khalid M. Mosalam,Taisei Professor of Civil Engineering | Director Pacific Earthquake Engineering Research Center,REGULAR,1.0,0,0,0
+2025-26,CEE-041,Khalid M. Mosalam,Taisei Professor of Civil Engineering | Director Pacific Earthquake Engineering Research Center,REGULAR,1.0,117.0,39.0,1
+2023-24,CEE-042,Scott Moura,Professor,REGULAR,1.0,120.0,98.0,3
+2024-25,CEE-042,Scott Moura,Professor,REGULAR,1.0,254.0,140.0,4
+2025-26,CEE-042,Scott Moura,Professor,REGULAR,1.0,258.0,138.0,4
+2023-24,CEE-043,Kara L. Nelson,Blum Chancellor's Chair in Development Engineering | Professor,REGULAR,1.0,111.0,37.0,1
+2024-25,CEE-043,Kara L. Nelson,Blum Chancellor's Chair in Development Engineering | Professor,REGULAR,1.0,133.5,44.5,1
+2025-26,CEE-043,Kara L. Nelson,Blum Chancellor's Chair in Development Engineering | Professor,REGULAR,1.0,81.0,27.0,1
+2023-24,CEE-044,Eyitayo Ademola Opabola,Assistant Professor,REGULAR,1.0,75.0,25.0,1
+2024-25,CEE-044,Eyitayo Ademola Opabola,Assistant Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-044,Eyitayo Ademola Opabola,Assistant Professor,REGULAR,1.0,0,0,0
+2023-24,CEE-045,Amy Pickering,Blum Center Distinguished Chair in Global Poverty and Practice | Associate Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-045,Amy Pickering,Blum Center Distinguished Chair in Global Poverty and Practice | Associate Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-045,Amy Pickering,Blum Center Distinguished Chair in Global Poverty and Practice | Associate Professor,REGULAR,1.0,0,0,0
+2023-24,CEE-046,Jasenka Rakas,Senior Continuing Lecturer,NON_REGULAR,1.0,93.0,31.0,1
+2024-25,CEE-046,Jasenka Rakas,Senior Continuing Lecturer,NON_REGULAR,1.0,144.0,48.0,2
+2025-26,CEE-046,Jasenka Rakas,Senior Continuing Lecturer,NON_REGULAR,1.0,51.0,17.0,1
+2023-24,CEE-047,James W. Rector,Professor,REGULAR,1.0,75.0,25.0,1
+2024-25,CEE-047,James W. Rector,Professor,REGULAR,1.0,207.0,69.0,2
+2025-26,CEE-047,James W. Rector,Professor,REGULAR,1.0,168.0,56.0,1
+2023-24,CEE-048,Michael Riemer,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-048,Michael Riemer,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-048,Michael Riemer,Adjunct Professor,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-049,Yoram N. Rubin,Chancellor's Professor Emeritus | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-049,Yoram N. Rubin,Chancellor's Professor Emeritus | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-049,Yoram N. Rubin,Chancellor's Professor Emeritus | Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-050,Stefano Schiavon,Professor,REGULAR,1.0,560.0,140.0,1
+2024-25,CEE-050,Stefano Schiavon,Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-050,Stefano Schiavon,Professor,REGULAR,1.0,620.0,155.0,1
+2023-24,CEE-051,David L. Sedlak,Plato Malozemoff Professor | Director of the Berkeley Water Center,REGULAR,1.0,117.0,39.0,1
+2024-25,CEE-051,David L. Sedlak,Plato Malozemoff Professor | Director of the Berkeley Water Center,REGULAR,1.0,322.0,92.0,2
+2025-26,CEE-051,David L. Sedlak,Plato Malozemoff Professor | Director of the Berkeley Water Center,REGULAR,1.0,135.0,45.0,1
+2023-24,CEE-052,Raja Sengupta,Professor,REGULAR,1.0,225.0,75.0,3
+2024-25,CEE-052,Raja Sengupta,Professor,REGULAR,1.0,510.0,170.0,3
+2025-26,CEE-052,Raja Sengupta,Professor,REGULAR,1.0,450.0,150.0,2
+2023-24,CEE-053,Susan Shaheen,Professor In-Residence,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-053,Susan Shaheen,Professor In-Residence,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-053,Susan Shaheen,Professor In-Residence,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-054,Ronald Shumway,Continuing Lecturer,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-054,Ronald Shumway,Continuing Lecturer,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-054,Ronald Shumway,Continuing Lecturer,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-055,Nicholas Sitar,Professor of the Graduate School,NON_REGULAR,1.0,388.5,129.5,3
+2024-25,CEE-055,Nicholas Sitar,Professor of the Graduate School,NON_REGULAR,1.0,387.0,129.0,2
+2025-26,CEE-055,Nicholas Sitar,Professor of the Graduate School,NON_REGULAR,1.0,96.0,32.0,1
+2023-24,CEE-056,Kenichi Soga,Donald H. McLaughlin Chair in Mineral Engineering | Distinguished Professor | Director of the Berkeley Center for Smart Infrastructure,REGULAR,1.0,129.0,43.0,2
+2024-25,CEE-056,Kenichi Soga,Donald H. McLaughlin Chair in Mineral Engineering | Distinguished Professor | Director of the Berkeley Center for Smart Infrastructure,REGULAR,1.0,129.0,43.0,2
+2025-26,CEE-056,Kenichi Soga,Donald H. McLaughlin Chair in Mineral Engineering | Distinguished Professor | Director of the Berkeley Center for Smart Infrastructure,REGULAR,1.0,33.0,11.0,1
+2023-24,CEE-057,Mark Stacey,Henry and Joyce Miedema Professor of Environmental Engineering,REGULAR,1.0,300.0,100.0,1
+2024-25,CEE-057,Mark Stacey,Henry and Joyce Miedema Professor of Environmental Engineering,REGULAR,1.0,261.0,87.0,1
+2025-26,CEE-057,Mark Stacey,Henry and Joyce Miedema Professor of Environmental Engineering,REGULAR,1.0,0,0,0
+2023-24,CEE-058,Robert L. Taylor,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2024-25,CEE-058,Robert L. Taylor,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2025-26,CEE-058,Robert L. Taylor,Professor of the Graduate School,NON_REGULAR,1.0,0,0,0
+2023-24,CEE-059,Iris D. Tommelein,"Roy W. Carlson Distinguished Professorship in Engineering | Director, Project Production Systems Laboratory (P2SL)",REGULAR,1.0,303.0,101.0,1
+2024-25,CEE-059,Iris D. Tommelein,"Roy W. Carlson Distinguished Professorship in Engineering | Director, Project Production Systems Laboratory (P2SL)",REGULAR,1.0,0,0,0
+2025-26,CEE-059,Iris D. Tommelein,"Roy W. Carlson Distinguished Professorship in Engineering | Director, Project Production Systems Laboratory (P2SL)",REGULAR,1.0,396.0,132.0,1
+2023-24,CEE-060,Evan A. Variano,Professor,REGULAR,1.0,480.0,120.0,1
+2024-25,CEE-060,Evan A. Variano,Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-060,Evan A. Variano,Professor,REGULAR,1.0,615.0,165.0,2
+2023-24,CEE-061,Joan Walker,Department Chair and T.Y. and Margaret Lin Professor | Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-061,Joan Walker,Department Chair and T.Y. and Margaret Lin Professor | Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-061,Joan Walker,Department Chair and T.Y. and Margaret Lin Professor | Professor,REGULAR,1.0,0,0,0
+2023-24,CEE-062,Ziqi Wang,Assistant Professor,REGULAR,1.0,72.0,24.0,1
+2024-25,CEE-062,Ziqi Wang,Assistant Professor,REGULAR,1.0,39.0,13.0,1
+2025-26,CEE-062,Ziqi Wang,Assistant Professor,REGULAR,1.0,81.0,27.0,1
+2023-24,CEE-063,Manxi Wu,Assistant Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-063,Manxi Wu,Assistant Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-063,Manxi Wu,Assistant Professor,REGULAR,1.0,0,0,0
+2023-24,CEE-064,Dimitrios Zekkos,Vice Chair for Strategic Planning and Implementation | Professor,REGULAR,1.0,112.5,37.5,2
+2024-25,CEE-064,Dimitrios Zekkos,Vice Chair for Strategic Planning and Implementation | Professor,REGULAR,1.0,36.0,12.0,1
+2025-26,CEE-064,Dimitrios Zekkos,Vice Chair for Strategic Planning and Implementation | Professor,REGULAR,1.0,333.0,111.0,2
+2023-24,CEE-065,Franco Zunino,Assistant Professor,REGULAR,1.0,0,0,0
+2024-25,CEE-065,Franco Zunino,Assistant Professor,REGULAR,1.0,0,0,0
+2025-26,CEE-065,Franco Zunino,Assistant Professor,REGULAR,1.0,291.0,97.0,1
+2023-24,CEE-S001,Mallory Barkdull,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2024-25,CEE-S001,Mallory Barkdull,Reviewed non-regular instructor,NON_REGULAR,0.5,480.0,120.0,1
+2025-26,CEE-S001,Mallory Barkdull,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2023-24,CEE-S002,Manar Shami,Reviewed non-regular instructor,NON_REGULAR,0.5,207.0,69.0,1
+2024-25,CEE-S002,Manar Shami,Reviewed non-regular instructor,NON_REGULAR,1.0,618.0,206.0,2
+2025-26,CEE-S002,Manar Shami,Reviewed non-regular instructor,NON_REGULAR,0.5,225.0,75.0,1
+2023-24,CEE-S003,Cruz Carlos,Reviewed non-regular instructor,NON_REGULAR,0.5,276.0,92.0,1
+2024-25,CEE-S003,Cruz Carlos,Reviewed non-regular instructor,NON_REGULAR,0.5,270.0,90.0,1
+2025-26,CEE-S003,Cruz Carlos,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2023-24,CEE-S004,Jennifer Stokes-Draut,Reviewed non-regular instructor,NON_REGULAR,0.5,111.0,37.0,1
+2024-25,CEE-S004,Jennifer Stokes-Draut,Reviewed non-regular instructor,NON_REGULAR,0.5,133.5,44.5,1
+2025-26,CEE-S004,Jennifer Stokes-Draut,Reviewed non-regular instructor,NON_REGULAR,0.5,81.0,27.0,1
+2023-24,CEE-S005,Jason Porzio,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2024-25,CEE-S005,Jason Porzio,Reviewed non-regular instructor,NON_REGULAR,0.5,246.0,82.0,1
+2025-26,CEE-S005,Jason Porzio,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2023-24,CEE-S006,Gary Mochizuki,Reviewed non-regular instructor,NON_REGULAR,0.5,150.0,50.0,1
+2024-25,CEE-S006,Gary Mochizuki,Reviewed non-regular instructor,NON_REGULAR,0.5,102.0,34.0,1
+2025-26,CEE-S006,Gary Mochizuki,Reviewed non-regular instructor,NON_REGULAR,0.5,168.0,56.0,1
+2023-24,CEE-S007,Stanislaus Tuholski,Reviewed non-regular instructor,NON_REGULAR,0.5,108.0,27.0,1
+2024-25,CEE-S007,Stanislaus Tuholski,Reviewed non-regular instructor,NON_REGULAR,0.5,140.0,35.0,1
+2025-26,CEE-S007,Stanislaus Tuholski,Reviewed non-regular instructor,NON_REGULAR,0.5,136.0,34.0,1
+2023-24,CEE-S008,David Kren,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2024-25,CEE-S008,David Kren,Reviewed non-regular instructor,NON_REGULAR,0.5,75.0,25.0,1
+2025-26,CEE-S008,David Kren,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2023-24,CEE-S009,Thomas Hendrickson,Reviewed non-regular instructor,NON_REGULAR,0.5,243.0,81.0,1
+2024-25,CEE-S009,Thomas Hendrickson,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2025-26,CEE-S009,Thomas Hendrickson,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2023-24,CEE-S010,Ahmad Hassan,Reviewed non-regular instructor,NON_REGULAR,0.5,78.0,26.0,1
+2024-25,CEE-S010,Ahmad Hassan,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2025-26,CEE-S010,Ahmad Hassan,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2023-24,CEE-S011,Amarnath Kasalanati,Reviewed non-regular instructor,NON_REGULAR,0.5,45.0,15.0,1
+2024-25,CEE-S011,Amarnath Kasalanati,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
+2025-26,CEE-S011,Amarnath Kasalanati,Reviewed non-regular instructor,NON_REGULAR,0.0,0,0,0
