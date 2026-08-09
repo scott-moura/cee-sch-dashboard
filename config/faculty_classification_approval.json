@@ -1,0 +1,9 @@
+{
+  "approved_date": "2026-08-08",
+  "approved_by": "project_owner",
+  "faculty_count": 65,
+  "regular_count": 44,
+  "non_regular_count": 21,
+  "classification_sha256": "34a5fead131fe8af0eb5c8673bae4dcb4b729fa4bbcf0943c3626184787c5fbe",
+  "notes": "Project owner confirmed the current faculty aliases and REGULAR/NON_REGULAR classifications."
+}

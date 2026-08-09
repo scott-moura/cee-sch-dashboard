@@ -2,4 +2,6 @@ term_id,activity_id,subject,catalog_number,section_numbers,decision,notes
 2248,OVR-2248-CIVENG-190S,CIVENG,190S,001|002,GROUP,"Simultaneous in-person/online delivery; reviewed by project owner"
 2252,OVR-2252-CIVENG-190S,CIVENG,190S,001|003,GROUP,"Simultaneous parallel delivery; reviewed by project owner"
 2262,OVR-2262-CIVENG-187,CIVENG,187,001|002,GROUP,"Simultaneous in-person/online delivery; reviewed by project owner; analogous to CIVENG 176"
-
+2238,OVR-2238-CIVENG-190S,CIVENG,190S,001|002,GROUP,"Simultaneous Friday 10:00-11:59 in-person/online delivery; reviewed by project owner for Version 1.2"
+2242,OVR-2242-CIVENG-190S,CIVENG,190S,001|002,GROUP,"Coordinated in-person/online delivery; reviewed by project owner for Version 1.2"
+2238,OVR-2238-GPP-196,GPP,196,001|002,GROUP,"Reviewed as one coordinated instructional activity by project owner for Version 1.2"

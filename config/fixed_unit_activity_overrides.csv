@@ -1,0 +1,3 @@
+activity_id,term,course_codes,fixed_units,decision_source,reason
+X-2262-15882-34509,Spring 2026,CIVENG 153 | CYPLAN 190,3,Project owner review,CIVENG 153 and room-shared CYPLAN 190 section 002 are both fixed at 3 units; CYPLAN section-level VUOC conflicts with its fixed allowedUnits
+X-2242-15583-16473,Spring 2024,CIVENG C30 | MECENG C85,3,Version 1.2 project owner review,Both cross-listed primary sections have fixed 3-unit min/max values despite a conflicting variable-unit source attribute
